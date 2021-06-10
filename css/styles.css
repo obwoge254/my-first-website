@@ -8,21 +8,37 @@ h1 {
     padding: 30px;
     background-color: darkgreen;
     border:none;
-    border-radius:4px;
+    border-radius:8px;
     margin-top:20px;
     }
   h2 {
     color: green;
     font-style: italic;
     text-align: center;
+    padding: 30px;
+    margin-top: 20px;
   }
-  
-  #ul {
-    
-       }
-  p {
-    font-family: sans-serif;
+  body{
+    padding: 30px;
+    color: green;
+    font-style: italic;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
   }
-  ul {
-    line-height: 40px;
+  img{
+    padding: 30px;
+    color: green;
+    font-style: italic;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-right:30px;
+    padding-left: 30px;
+
+    object-fit: cover;
+    max-width:400px;
+    max-height:500px;
+    width: 600%;
+    height: 400px;
   }
